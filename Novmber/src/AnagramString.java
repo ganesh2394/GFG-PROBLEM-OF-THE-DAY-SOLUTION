@@ -1,6 +1,6 @@
 class AnagramString {
 
-    /* Problem Of The Day : GFG
+    /* Problem Of The Day : Anagram
     *  Link : https://www.geeksforgeeks.org/problems/anagram-1587115620/1
     *  topic tags : Data Structure, String and Array
     *  Date : 30 November 2024

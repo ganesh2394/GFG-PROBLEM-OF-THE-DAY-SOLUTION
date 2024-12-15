@@ -2,7 +2,7 @@ package Easy;
 
 class NumberOfOccurrence {
     /*
-     * Problem Of The Day : GFG
+     * Problem Of The Day : Number of Occurrence
      * Link : https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1
      * Topic tags : Data Structure and Algorithm , Binary Search
      * Date : 12 December 2024

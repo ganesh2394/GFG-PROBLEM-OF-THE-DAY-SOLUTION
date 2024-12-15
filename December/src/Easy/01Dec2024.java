@@ -5,7 +5,7 @@ import java.util.HashMap;
 class NoRepeatCharacter {
 
     /*
-    * Problem Of The Day : GFG
+    * Problem Of The Day : No Repeat Character
     * Link : https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1
     * Topic tags : Data Structure, Strings and Hash.
     * Date : 01 December 2024

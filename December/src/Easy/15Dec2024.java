@@ -3,7 +3,7 @@ package Easy;
 class PeekElement {
 
     /*
-    * Problem Of The Day
+    * Problem Of The Day : Peak element
     * Link : https://www.geeksforgeeks.org/problems/peak-element/1
     * Topic tags : Searching and Algorithm
     * Date : 15 December 2024

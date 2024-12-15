@@ -1,5 +1,6 @@
 class AddBinaryStrings{
 
+    // GFG Problem Of The Day : Add Binary Strings
     // Problem link : https://www.geeksforgeeks.org/problems/add-binary-strings3805/1
     static public String addBinary(String s1, String s2) {
         StringBuilder str1 = new StringBuilder(s1);

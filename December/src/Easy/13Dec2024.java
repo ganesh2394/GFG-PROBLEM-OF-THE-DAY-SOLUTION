@@ -4,7 +4,9 @@ package Easy;
 class SortedAndRotedMinimum {
 
     /*
-     * Problem Of The Day : A sorted array of distinct elements arr[] is rotated at some unknown point,
+     * Problem Of The Day : Sorted And Rotated Minimum
+     *
+     * Description : A sorted array of distinct elements arr[] is rotated at some unknown point,
      * the task is to find the minimum element in it.
      *
      * Link : https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1
