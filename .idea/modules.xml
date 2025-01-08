@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/December/December.iml" filepath="$PROJECT_DIR$/December/December.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GFGProblems.iml" filepath="$PROJECT_DIR$/.idea/GFGProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/January2025/January2025.iml" filepath="$PROJECT_DIR$/January2025/January2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Novmber/Novmber.iml" filepath="$PROJECT_DIR$/Novmber/Novmber.iml" />
     </modules>
   </component>
